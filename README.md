@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @NandiniParmar.
-- 👀 I’m currently pursuing MCA.
+- 👋 Hi, I’m Nandini Parmar.
  
 
 
