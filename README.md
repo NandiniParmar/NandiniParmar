@@ -1,5 +1,5 @@
 <h1>
-  Hey there
+  Hi, I'm Nandini Parmar
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -20,8 +20,26 @@
 
 <hr>
 
+## 🌱 Currently Exploring
+<ul>
+  <li>
+    Advanced JavaScript patterns for cleaner, more efficient code.
+  </li>
+  <li>
+   Typescript to build more robust and scalable React applications.
+  </li>
+  <li>
+    Next.js for performance-optimized, SEO-friendly web apps.
+  </li>
+   <li>
+   Styling with Tailwind CSS to create modern and responsive user interfaces.
+  </li>
+   <li>
+    Testing libraries like Jest and React Testing Library for better code reliability.
+  </li>
+</ul>
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
 <br>
 
@@ -32,9 +50,17 @@
 
 <hr>
 
+## Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nandini-parmar-a542261a8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
 <div align="center"> 
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/{NandiniParmar}/count.svg" alt="Visitor's Count" />
 </div>
-<!-- <img src="https://komarev.com/ghpvc/?username=NandiniParmar&style=flat-square&color=blue" alt=""/> -->
+
 
