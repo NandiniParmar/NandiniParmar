@@ -3,6 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+[![NandiniParmar](https://github-readme-stats.vercel.app/api/top-langs/?username=NandiniParmar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## About Me
 <ul>
     <li>
@@ -15,6 +18,7 @@
         🔍 Passionate about building clean UIs, solving real-world problems with code, and continuous learning.
     </li>
 </ul>
+
 
 <hr>
 
