@@ -4,8 +4,6 @@
 </h1>
 
 ## About Me
-
-<br>
 <ul>
     <li>
         👩‍💻 Software Engineer | ReactJS Developer
@@ -40,10 +38,9 @@
 </ul>
 
 ## 🛠️ Tech Stack
-
 <br>
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=js,react,nextjs" />
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,ts,redux,git" />
 </p>
@@ -51,16 +48,18 @@
 <hr>
 
 ## Connect with Me
-
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/nandini-parmar-a542261a8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
 
+<hr>
+
 <div align="center"> 
-  <p>Visitor count</p>
+  <p>Visitor count
   <img src="https://profile-counter.glitch.me/{NandiniParmar}/count.svg" alt="Visitor's Count" />
+  </p>
 </div>
 
 
