@@ -58,12 +58,6 @@
   </a>
 </div>
 
-<hr>
 
-<div align="center"> 
-  <p>Visitor count
-  <img src="https://profile-counter.glitch.me/{NandiniParmar}/count.svg" alt="Visitor's Count" />
-  </p>
-</div>
 
 
