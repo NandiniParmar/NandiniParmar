@@ -12,7 +12,7 @@
         👩‍💻 Software Engineer | ReactJS Developer
     </li>
     <li>
-        💼 2 years of experience building user-responsive and optimiized web applications.
+        💼 3 years of experience building user-responsive and optimiized web applications.
     </li>
     <li>
         🔍 Passionate about building clean UIs, solving real-world problems with code, and continuous learning.
