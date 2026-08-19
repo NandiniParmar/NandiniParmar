@@ -7,7 +7,7 @@
 ## About Me
 <ul>
     <li>
-        👩‍💻 Software Engineer | ReactJS Developer
+        👩‍💻 Software Engineer | ReactJS Developer | NextJS Developer
     </li>
     <li>
         💼 3 years of experience building user-responsive and optimiized web applications.
@@ -23,16 +23,13 @@
 ## 🌱 Currently Exploring
 <ul>
   <li>
-    Advanced JavaScript patterns for cleaner, more efficient code.
-  </li>
-  <li>
    Typescript to build more robust and scalable React applications.
   </li>
   <li>
     Next.js for performance-optimized, SEO-friendly web apps.
   </li>
    <li>
-   Styling with Tailwind CSS to create modern and responsive user interfaces.
+     Node.js for building server side applications.
   </li>
    <li>
     Testing libraries like Jest and React Testing Library for better code reliability.
